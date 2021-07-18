@@ -47,9 +47,9 @@ Changelog:
 	- Thor node fixes
 
 1.2
-	- Updated to BDB's waterfall compatibility. Fixed some engine noises that werent playing. In addition the flourine based engines will have different plumes based on yellow.
+	- Updated to BDB's waterfall compatibility. Fixed some engine noises that weren't playing. In addition the flourine based engines will have different plumes based on yellow.
 	- Integrated new RealFuels and B9Partswitch integration, you only need to set the engine configuration in the RealFuels engine menu and the according visuals will be selected (engine nozzle, waterfall plume)
-	- Upper Solids have returned! Turns out RF doesn't like it when SRB's can be shut down. B9Partswitch integration has been disabled on some SRB's as a resource issue gets resolved.
+	- Upper Solids have returned! Turns out RF doesn't like it when SRB's can be shut down.
 	- Added missing engines from the final release of BDB 1.8
 	- Added support for the X-20 Moroz (Stockalike Dynasoar made for the BDB Titan) https://forum.kerbalspaceprogram.com/index.php?/topic/184435-1120-%D0%B6-20-moroz-spaceplane/
 	- Added compatibility with Konstellation Program https://forum.kerbalspaceprogram.com/index.php?/topic/200756-wip18x-konstellation-program-stockalike-ares-v-rocket-and-some-constellation-program-parts/
@@ -57,5 +57,4 @@ Changelog:
 	- fixed GE405 engine weight. 
 	- Engine response times added.
 	- Probe core support added
-
-	- 
+        - 
